@@ -1,0 +1,7 @@
+{
+  "name": "UniMeal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
